@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "CV"
-    url: _pages/cv.html
-    
   - title: "Research"
-    url: _pages/research.html
+    url: /research/
+    
+  - title: "CV"
+    url: /cv/
+    
+

@@ -1,16 +1,23 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+I study the impact of public opinion on counterinsurgency tactics by asking how governments mitigate the costs of their counterinsurgency efforts. In a secondary agenda, I study the intersection between domestic politics and foreign policy, emphasizing the role of domestic politics in foreign policy making.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Work in Progress
+
+- Political Processes, Service Provision, and Insurgent Violence.
+
+- Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).
+
+- Voter Backlash and Elite Defections: A Path to Undermining Authoritarian Stability. (with Hilal Sert).
+
+- Counterinsurgency Calculus: Unraveling Curfew Strategies in Conflict-Ridden Territories.
+  
+- Framing Extremist Domestic Terrorism and Public Support for Counterterrorism. [pre-analysis plan](https://osf.io/x2r6d)
+
+- Allies in Action: Public Support for Counterinsurgency through Collaboration. [pre-analysis plan](https://osf.io/vqzgr)

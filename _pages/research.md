@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
 # Research
 
 I study the impact of public opinion on counterinsurgency tactics by asking how governments mitigate the costs of their counterinsurgency efforts. In a secondary agenda, I study the intersection between domestic politics and foreign policy, emphasizing the role of domestic politics in foreign policy making.

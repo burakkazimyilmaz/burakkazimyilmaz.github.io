@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome!
 
 I'm a Ph.D. student in the Department of Political Science at Emory University. 

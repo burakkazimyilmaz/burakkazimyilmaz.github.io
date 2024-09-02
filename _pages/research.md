@@ -19,8 +19,6 @@ I study the impact of public opinion on counterinsurgency tactics by asking how 
 
      
 ## Work in Progress
-- Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).
-
 - Voter Backlash and Elite Defections: A Path to Undermining Authoritarian Stability. (with Hilal Sert).
 
 - Counterinsurgency Calculus: Unraveling Curfew Strategies in Conflict-Ridden Territories.
@@ -28,3 +26,9 @@ I study the impact of public opinion on counterinsurgency tactics by asking how 
 - Framing Extremist Domestic Terrorism and Public Support for Counterterrorism. [pre-analysis plan](https://osf.io/x2r6d)
 
 - Allies in Action: Public Support for Counterinsurgency through Collaboration. [pre-analysis plan](https://osf.io/vqzgr)
+
+- Foreign Meddling by Adverse Side-Taking. (with [Eddy Yeung](https://eddy-yeung.github.io/)
+
+- Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).
+
+

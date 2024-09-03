@@ -12,9 +12,9 @@ title                    : "Burak Kazim Yilmaz"
 title_separator          : "-"
 name                     : &name "Burak Kazim Yilmaz"
 description              : &description "personal description"
-url                      : https://burak-kazim-yilmaz.github.io
+url                      : https://burakkazimyilmaz.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "burakkazimyilmaz/burak-kazim-yilmaz.github.io"
+repository               : "burakkazimyilmaz/burakkazimyilmaz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

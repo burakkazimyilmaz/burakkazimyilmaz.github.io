@@ -27,7 +27,7 @@ I study the impact of public opinion on counterinsurgency tactics by asking how 
 
 - Allies in Action: Public Support for Counterinsurgency through Collaboration. [pre-analysis plan](https://osf.io/vqzgr)
 
-- Foreign Meddling by Adverse Side-Taking. (with [Eddy Yeung](https://eddy-yeung.github.io/)
+- Foreign Meddling by Adverse Side-Taking. (with [Eddy Yeung])(https://eddy-yeung.github.io/).
 
 - Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).
 

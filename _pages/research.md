@@ -11,7 +11,10 @@ I study the impact of public opinion on counterinsurgency tactics. Specifically,
 
 ## Working Papers
 
--<summary>Constituents in Peril: How Non-Violent Government Presence Impacts Insurgent Tactics.<summary>
+- Constituents in Peril: How Non-Violent Government Presence Impacts Insurgent Tactics.
+  -   <details>
+
+        <summary>Abstract</summary>
         Insurgents may risk their constituents' lives and protect themselves by conducting civilian-endangering attacks. Existing scholarship emphasizes the costs of civilian victimization on the responsible warring party. Extending this line of research, I ask under what conditions insurgent groups accept these costs, risking their own constituents' lives. In this research note, I argue that insurgents produce more civilian-endangering attacks when their constituents are more likely to support the insurgency because of a lack of political channels. I test this theory using micro-level event data on construction and violence in Iraq from 2004 to 2009. I show that the increase in non-violent government presence, such as mayoral offices or government centers, changes the composition of insurgent tactics, leading them to engage in civilian-endangering attacks less within regions densely populated by their constituents. The findings offer a new framework to understand insurgent violence against civilians, emphasizing the need for alternative non-violent channels to reduce civilian victimization.
 
 - Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).

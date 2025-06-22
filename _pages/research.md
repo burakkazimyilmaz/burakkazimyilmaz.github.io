@@ -5,17 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
-I study the impact of public opinion on counterinsurgency tactics. Specifically, I examine government efforts to avoid public backlash for counterinsurgency efforts both abroad and at home. In a secondary agenda, I study the interaction between domestic politics and foreign policy, emphasizing the role of domestic politics in foreign policy making.
-
-
 ## Working Papers
-
-- Constituents in Peril: How Non-Violent Government Presence Impacts Insurgent Tactics.
-  -   <details>
-
-        <summary>Abstract</summary>
-        Insurgents may risk their constituents' lives and protect themselves by conducting civilian-endangering attacks. Existing scholarship emphasizes the costs of civilian victimization on the responsible warring party. Extending this line of research, I ask under what conditions insurgent groups accept these costs, risking their own constituents' lives. In this research note, I argue that insurgents produce more civilian-endangering attacks when their constituents are more likely to support the insurgency because of a lack of political channels. I test this theory using micro-level event data on construction and violence in Iraq from 2004 to 2009. I show that the increase in non-violent government presence, such as mayoral offices or government centers, changes the composition of insurgent tactics, leading them to engage in civilian-endangering attacks less within regions densely populated by their constituents. The findings offer a new framework to understand insurgent violence against civilians, emphasizing the need for alternative non-violent channels to reduce civilian victimization.
 
 - Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)).
   -   <details>
@@ -46,6 +36,12 @@ I study the impact of public opinion on counterinsurgency tactics. Specifically,
 
         <summary>Abstract</summary>
         How does collaboration with an ally shape public support for overseas counterinsurgency (COIN) operations? Given the central role of public opinion in democratic foreign policymaking, this study employs a survey experiment to assess whether partnering with an external actor increases public backing for COIN efforts. I argue that collaboration—whether with a local, regional, or traditional Western ally—can bolster public support relative to unilateral action. While existing research emphasizes multilateralism through formal institutions like the UN or NATO, this study shifts attention to alternative forms of collaboration amid growing skepticism toward institutional multilateralism among the American public. The results show that allied cooperation consistently increases support for COIN operations, regardless of the ally’s type. This effect is stronger among individuals with favorable views of NATO and those with internationalist orientations. To probe the sources of this effect, I test several psychological and political mechanisms, including burden-sharing, perceptions of threat, mission necessity, and anticipated success. By examining how non-institutionalized partnerships influence public attitudes, this research advances our understanding of how leaders can generate domestic support for military action beyond traditional institutional channels.
+
+- Constituents in Peril: How Non-Violent Government Presence Impacts Insurgent Tactics.
+  -   <details>
+
+        <summary>Abstract</summary>
+        Insurgents may risk their constituents' lives and protect themselves by conducting civilian-endangering attacks. Existing scholarship emphasizes the costs of civilian victimization on the responsible warring party. Extending this line of research, I ask under what conditions insurgent groups accept these costs, risking their own constituents' lives. In this research note, I argue that insurgents produce more civilian-endangering attacks when their constituents are more likely to support the insurgency because of a lack of political channels. I test this theory using micro-level event data on construction and violence in Iraq from 2004 to 2009. I show that the increase in non-violent government presence, such as mayoral offices or government centers, changes the composition of insurgent tactics, leading them to engage in civilian-endangering attacks less within regions densely populated by their constituents. The findings offer a new framework to understand insurgent violence against civilians, emphasizing the need for alternative non-violent channels to reduce civilian victimization.
 
 - Foreign Meddling by Adverse Side-Taking. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
   -   <details>

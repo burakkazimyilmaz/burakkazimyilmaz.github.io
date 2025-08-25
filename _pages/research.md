@@ -7,6 +7,8 @@ author_profile: true
 
 ## Working Papers
 
+Drafts are available upon request.
+
 - Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)). (under review)
   -   <details>
 

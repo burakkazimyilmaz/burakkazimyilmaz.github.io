@@ -5,6 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+
+- Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.
+  -   <details>
+
+        <summary>Abstract</summary>
+        States often implement population control measures to combat insurgencies, but how do they decide where to impose such measures, and how do these policies reshape counterinsurgency dynamics? This study examines curfews—ostensibly nonviolent yet indiscriminate restrictions on civilian movement—as a tool to enhance state legibility and information flows. While curfews improve government oversight, they also disrupt civilian life, creating a tradeoff between security and public backlash. Using Turkey’s counterinsurgency campaign against the Kurdish insurgency as a case study, I find that curfews trigger civilian displacement, which mitigates the state’s information problem by altering the demographic composition of conflict zones. This facilitates intensified military operations in depopulated urban areas. Additionally, I show that curfew deployment is shaped by civilian loyalties: the government imposes more curfews in insurgent-dominated districts and fewer in competitive and government-dominated districts. These findings contribute to broader debates on state control, legibility, and the strategic use of repression in counterinsurgency campaigns.
+
+
 ## Working Papers
 
 Drafts are available upon request.
@@ -21,29 +30,30 @@ Drafts are available upon request.
         <summary>Abstract</summary>
         What role can voters play in reversing democratic backsliding? We examine an overlooked channel: credible signals of voter discontent can drive defections from ruling party elites. When voters punish undemocratic behavior, ruling elites may interpret these signals as dissatisfaction and defect to challenge the regime. Using survival analysis with an original dataset on ruling party candidates in Turkey’s legislative elections, we find that backlash against the ruling party, especially after attempts to overturn the 2019 Istanbul mayoral election, increased elite defections. Notably, elites with minimal ties to the party’s structure or those with significant public popularity—such as former ministers—were more likely to leave, leveraging their reputations to align with opposition ranks. Our findings suggest that voter signals can weaken ruling parties internally, creating opportunities for opposition to challenge authoritarian tendencies. This highlights the importance of medium-stakes elections as platforms for voters to signal discontent and influence regime dynamics.
 
-- Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.
-  -   <details>
-
-        <summary>Abstract</summary>
-        States often implement population control measures to combat insurgencies, but how do they decide where to impose such measures, and how do these policies reshape counterinsurgency dynamics? This study examines curfews—ostensibly nonviolent yet indiscriminate restrictions on civilian movement—as a tool to enhance state legibility and information flows. While curfews improve government oversight, they also disrupt civilian life, creating a tradeoff between security and public backlash. Using Turkey’s counterinsurgency campaign against the Kurdish insurgency as a case study, I find that curfew deployment is shaped by civilian loyalties: the government imposes more curfews in insurgent-dominated districts and fewer in competitive and government-dominated districts. Additionally, curfews trigger civilian displacement, which mitigates the state’s information problem by altering the demographic composition of conflict zones. This facilitates intensified military operations in depopulated urban areas. These findings contribute to broader debates on state control, legibility, and the strategic use of repression in counterinsurgency campaigns.
-
 - Framing Domestic Extremism: How Labels Influence Public Support for Counterterrorism Measures.
   -   <details>
 
         <summary>Abstract</summary>
-        How does the framing of violent domestic groups influence public support for counterterrorism policies? This study examines the effects of labeling, specifically using the terms `terrorist' or `extremist', on Americans’ willingness to endorse counterterrorism measures against ideologically motivated violent actors. Using a pre-registered survey experiment conducted in the United States, I find that labeling alone does not consistently increase support for counterterrorism responses, such as dedicating resources, enhancing surveillance, or conducting counterterrorism operations. Only the `terrorist' label yields a modest effect on support for direct counterterrorism action. Instead, public support is strongly shaped by partisan identity and the ideological orientation of the violent group. Further analysis reveals that these partisan divides are driven by psychological mechanisms, including perceived credibility of the attack, personal risk, and justification of the violence. These findings suggest that elite and media framing has limited influence in the absence of deeper shifts in partisan threat perception, emphasizing the role of affective polarization in shaping responses to domestic extremism.
+        How does the labeling of violent domestic groups influence public support for counterterrorism policies? This study examines the effects of labeling, specifically using the terms ``terrorist'' or ``extremist,'' on Americans’ willingness to endorse counterterrorism measures against ideologically motivated domestic violent actors. Using a pre-registered survey experiment conducted in the United States, I find that labeling does not consistently increase support for counterterrorism responses, such as dedicating resources, enhancing surveillance, or conducting counterterrorism operations. Instead, public support is strongly shaped by partisan identity and the ideological orientation of the violent group. Further analysis reveals that these partisan divides are driven by psychological mechanisms, including perceived credibility of the attack, personal risk, and justification of the violence. These findings suggest that elite and media framing has limited influence in the absence of deeper shifts in partisan threat perception, emphasizing the role of affective polarization in shaping responses to domestic extremism.
 
 - Beyond Institutions: How Informal Alliances Shape Public Backing for Military Interventions.
   -   <details>
 
         <summary>Abstract</summary>
-        How does collaboration with an ally shape public support for overseas counterinsurgency operations? While much existing research focuses on formal multilateral institutions like the UN or NATO, this study examines how non-institutionalized partnerships influence public attitudes. Using a preregistered survey experiment in the US, this study assesses whether and how collaboration with non-institutional partners can bolster public support relative to unilateral action. I find that collaboration significantly increases support for counterinsurgency operations, whether with local forces, a regional power, or a traditional Western ally. While collaboration does not significantly alter material perceptions on average, the results suggest that preexisting foreign policy dispositions shape how collaboration cues are received. These findings contribute to scholarship on public opinion and military intervention, highlighting how governments can garner domestic support for military action through strategic international cooperation.
+        How does collaboration with allies shape public support for overseas counterinsurgency operations? While much existing research emphasizes formal institutions like the UN or NATO, this study examines ad hoc partnerships with local, regional, and Western actors. Using a preregistered U.S. survey experiment, I find that collaboration significantly increases support for troop deployments compared to unilateral action. However, it does not shift beliefs about threat, necessity, cost, or likely success. Instead, collaboration appears to function symbolically, resonating most with individuals predisposed toward internationalism, supportive of NATO, or aligned with the Democratic Party. These findings challenge informational accounts of multilateralism and highlight the legitimating role of symbolic cues in shaping public opinion. The study broadens our understanding of how governments can use even informal coalitions to secure domestic backing for military interventions.
 
 - Constituents in Peril: How Non-Violent Government Presence Impacts Insurgent Tactics.
   -   <details>
 
         <summary>Abstract</summary>
         Insurgents may risk their constituents' lives and protect themselves by conducting civilian-endangering attacks. Existing scholarship emphasizes the costs of civilian victimization on the responsible warring party. Extending this line of research, I ask under what conditions insurgent groups accept these costs, risking their own constituents' lives. In this research note, I argue that insurgents produce more civilian-endangering attacks when their constituents are more likely to support the insurgency because of a lack of political channels. I test this theory using micro-level event data on construction and violence in Iraq from 2004 to 2009. I show that the increase in non-violent government presence, such as mayoral offices or government centers, changes the composition of insurgent tactics, leading them to engage in civilian-endangering attacks less within regions densely populated by their constituents. The findings offer a new framework to understand insurgent violence against civilians, emphasizing the need for alternative non-violent channels to reduce civilian victimization.
+
+- Unity on the Pitch, Unity in the State? Football and Attitudes Toward Decentralization.
+  -   <details>
+
+        <summary>Abstract</summary>
+        How do major national rituals such as international football matches affect political attitudes on territorial organization? This paper investigates whether exposure to Spanish national team matches influences individual preferences over decentralization and national identification. Leveraging the timing of football matches and a rich panel dataset of political attitudes in Spain, I employ a quasi-experimental design that relies on the as-if random timing of matches relative to the survey fieldwork. I find that exposure to a national match significantly increases identification with Spanish identity and reduces support for greater regional autonomy. The findings contribute to our understanding of how seemingly irrelevant events shape attitudes toward national unity and political structure.
+
 
 ## Selected Works in Progress
 
@@ -58,10 +68,4 @@ Drafts are available upon request.
 
         <summary>Abstract</summary>
         Foreign electoral intervention is an increasingly popular tool for authoritarian superpowers to influence politics in the international system. This paper conceptualizes a strategy of foreign meddling: adverse side-taking. We argue that foreign rivals can tip the balance of electoral support in favor of their preferred candidate by overtly endorsing another candidate. This strategy can be effective because rivals' endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make inappropriate foreign policy decisions for their country. To offer a first-cut empirical test of our argument, we administered a pilot survey experiment to American citizens and found that---consistent with the core prediction of our theory---candidates endorsed by US rivals suffered significant electoral backlash. Building on our pilot study, we design and preregister a complementary pair of candidate-choice and vignette-based experiments to unpack the impact, mechanism, and scope of adverse side-taking.    
-
-- Unity on the Pitch, Unity in the State? Football and Attitudes Toward Decentralization.
-  -   <details>
-
-        <summary>Abstract</summary>
-        How do major national rituals such as international football matches affect political attitudes on territorial organization? This paper investigates whether exposure to Spanish national team matches influences individual preferences over decentralization and national identification. Leveraging the timing of football matches and a rich panel dataset of political attitudes in Spain, I employ a quasi-experimental design that relies on the as-if random timing of matches relative to the survey fieldwork. I find that exposure to a national match significantly increases identification with Spanish identity and reduces support for greater regional autonomy. The findings contribute to our understanding of how seemingly irrelevant events shape attitudes toward national unity and political structure.
 

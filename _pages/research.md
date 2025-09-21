@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/1E8SoYPTYN2tad7gKu4YYjNCSQ6z_bdcF/view?usp=sharing)
+- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/1kHmegx0c2VJ1TIOnR_sEqzKNEfZSvc6k/view?usp=sharing)
   -   <details>
 
         <summary>Abstract</summary>
@@ -24,7 +24,7 @@ Drafts are available upon request.
         <summary>Abstract</summary>
         Most research on the diversionary use of force focuses on timing of conflict initiation and target selection, often treating the public as passive observers of the process. This research note challenges this assumption by examining how leaders try to configure most-needed public attention before resorting to use of force for diversionary purposes. We contend that economic downturns that trigger leaders' diversionary attempts  require them first to boost salience of foreign policy issues in the eyes of the public. We measure foreign policy salience in U.S. presidential speeches from 1945 to 2019 using a large language model (LLM), and examine its mediating role between economic conditions and aggression in international politics. Moreover, rather than using quarterly or yearly data, we utilize monthly-level data for economic indicators as well as political outcomes to acquire a finer-grained view of causal story. The results are in line with our theoretical expectation, while not supporting existing accounts of diversionary theory: we do not find a direct effect of inflation on use of force abroad; whereas, inflation is positively associated with increased levels of foreign policy salience in presidential speeches, which in turn increases the likelihood of use of force. Our findings suggest that leaders first elevate foreign policy issues rhetorically before resorting to force; and hence, it can be a signal for upcoming aggression abroad. These findings highlight the importance of public priming in the diversionary use of force, and offer a new perspective on the role of presidential rhetoric.
 
-- Reversing Backsliding: Voter Backlash and Elite Defections. (with [Hilal Sert](https://serthilal.github.io/)).
+- Reversing Backsliding: Voter Backlash and Elite Defections. (with [Hilal Sert](https://serthilal.github.io/)). (under review)
   -   <details>
 
         <summary>Abstract</summary>

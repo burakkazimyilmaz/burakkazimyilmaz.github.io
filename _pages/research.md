@@ -30,8 +30,6 @@ Drafts are available upon request.
         <summary>Abstract</summary>
         What role can voters play in reversing democratic backsliding? We examine an overlooked channel: credible signals of voter discontent can drive defections from ruling party elites. When voters punish undemocratic behavior, ruling elites may interpret these signals as dissatisfaction and defect to challenge the regime. Using survival analysis with an original dataset on ruling party candidates in Turkey’s legislative elections, we find that backlash against the ruling party, especially after attempts to overturn the 2019 Istanbul mayoral election, increased elite defections. Notably, elites with minimal ties to the party’s structure or those with significant public popularity—such as former ministers—were more likely to leave, leveraging their reputations to align with opposition ranks. Our findings suggest that voter signals can weaken ruling parties internally, creating opportunities for opposition to challenge authoritarian tendencies. This highlights the importance of medium-stakes elections as platforms for voters to signal discontent and influence regime dynamics.
 
-https://drive.google.com/file/d/1bW7ifE0ypyimE2crEQo6XVMT9wR9thuk/view?usp=sharing
-
 - [Unity on the Pitch, Unity in the State? Football and Attitudes Toward Decentralization.](https://drive.google.com/file/d/1bW7ifE0ypyimE2crEQo6XVMT9wR9thuk/view?usp=sharing) (under review)
   -   <details>
 

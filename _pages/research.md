@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/18SgXkBpJD1FO2Bn8xISx5FCsqBDaXomb/view?usp=sharing)
+- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/1ybsOC6TWE21-4lWT-yk7-_Lmt2tx0Cia/view?usp=sharing)
   -   <details>
 
         <summary>Abstract</summary>
@@ -18,7 +18,7 @@ author_profile: true
 
 Drafts are available upon request.
 
-- Pave the Way to Diversion: Increased Saliency of Foreign Policy at the Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)). (under review)
+- Pave the Way to Diversion: Increased Saliency of Foreign Policy at Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)). (under review)
   -   <details>
 
         <summary>Abstract</summary>

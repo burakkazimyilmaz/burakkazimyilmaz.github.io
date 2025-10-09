@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/1ybsOC6TWE21-4lWT-yk7-_Lmt2tx0Cia/view?usp=sharing)
+- [Civilian Loyalties, Curfews, and Legibility in Counterinsurgency.](https://drive.google.com/file/d/1ybsOC6TWE21-4lWT-yk7-_Lmt2tx0Cia/view?usp=sharing) (under review)
   -   <details>
 
         <summary>Abstract</summary>

@@ -7,7 +7,7 @@ author_profile: true
 
 Welcome!
 
-I'm a Ph.D. candidate in the Department of Political Science at Emory University. 
+I'm a Ph.D. candidate in the Department of Political Science at Emory University. I am on the 2025–26 academic job market.
 
 I study how political participation and public opinion influence elite behavior in contexts such as armed conflict, foreign policy decision-making, and authoritarian consolidation. My work proceeds along two main lines.
 

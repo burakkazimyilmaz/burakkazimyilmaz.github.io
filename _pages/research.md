@@ -35,6 +35,11 @@ Drafts are available upon request.
         <summary>Abstract</summary>
         How do major national rituals such as international football matches affect political attitudes on territorial organization? This paper investigates whether exposure to Spanish national team matches influences individual preferences over decentralization and national identification. Leveraging the timing of football matches and a rich panel dataset of political attitudes in Spain, I employ a quasi-experimental design that relies on the as-if random timing of matches relative to the survey fieldwork. I find that exposure to a national match significantly increases identification with Spanish identity and reduces support for greater regional autonomy. The findings contribute to our understanding of how seemingly irrelevant events shape attitudes toward national unity and political structure.
 
+- Insurgent Sabotage of Effective Local Governments: Evidence from Turkey.
+  -   <details>
+
+        <summary>Abstract</summary>
+        Conventional counterinsurgency theory holds that effective local governance should reduce insurgent violence by strengthening civilian allegiance to the state. However, existing evidence remains inconsistent: in some contexts, the expansion of social services and development programs has reduced insurgent activity by bolstering government legitimacy, while in others, it has led to spikes in violence as insurgents seek to sabotage or capture these initiatives. In this study, I argue that such variation reflects insurgents’ strategic adaptation to local governance. When political control shifts to parties with strong service-delivery capacity, insurgents escalate violence to disrupt governance and provoke coercive counterinsurgency responses that alienate civilians. In doing so, they radicalize civilians in the short run to join the armed struggle and create conditions conducive to recruitment in the long run. I test this argument in the context of the Kurdistan Workers’ Party (PKK) insurgency in Turkey, leveraging the 1994 municipal elections. Using a regression discontinuity design, I find that districts narrowly won by the Refah Party, a party distinguished by its extensive grassroots welfare networks, experienced significantly higher levels of state security forces fatalities than those narrowly lost. To examine the consequences of this escalation, I employ a difference-in-differences design using cohort-based schooling data. RP-governed districts exposed to intensified violence saw sharper declines in high school completion, consistent with the argument that insurgent sabotage and ensuing state overreaction expanded the pool of potential recruits.
 
 - Framing Domestic Extremism: How Labels Influence Public Support for Counterterrorism Measures.
   -   <details>
@@ -56,12 +61,6 @@ Drafts are available upon request.
 
 
 ## Selected Works in Progress
-
-- Strategic Sabotage: Insurgent Responses to Effective Local Governments in Conflict Zones.
-  -   <details>
-
-        <summary>Abstract</summary>
-        Conventional wisdom on counterinsurgency campaigns emphasizes the importance of winning the hearts and minds of the population through the provision of public goods. Yet existing studies, which often focus on development aid, present mixed evidence regarding whether such strategies reduce violence. I argue that insurgents strategically sabotage effective local governments when municipal control shifts to parties with greater capacity for service provision. Anticipating potential loyalty shifts, insurgents escalate violence to disrupt service delivery and provoke enemy-centric counterinsurgency responses that sideline public goods provision. To test this argument, I exploit close-election outcomes from Turkey’s 1994 municipal elections, in the context of the long-running conflict between the Turkish state and the PKK. The results show that PKK violence against security forces increased in districts where the Refah Party--a party with strong grassroots networks and extensive service provision--narrowly won control. Moreover, these districts subsequently saw higher insurgent recruitment and worse schooling outcomes, consistent with the idea that conflict expands the pool of vulnerable youth. Together, these findings demonstrate how insurgents calibrate violence to undercut the political dividends of effective local governance, contributing to broader debates on whether public goods provision pacifies or provokes violence in civil conflict settings.
 
 - Foreign Meddling by Adverse Side-Taking. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
   -   <details>

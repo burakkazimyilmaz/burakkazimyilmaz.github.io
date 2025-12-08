@@ -41,7 +41,7 @@ Drafts are available upon request.
         <summary>Abstract</summary>
         How does collaboration with allies shape public support for overseas counterinsurgency operations? While much existing research on support for military interventions emphasizes formal institutions like the UN or NATO, this study examines ad hoc alliances, which are purpose-built and single mandate coalitions that operate outside formal multilateral institutions. Using a preregistered U.S. survey experiment, I find that collaboration with ad hoc alliances significantly increases support for troop deployments compared to unilateral action. However, it does not shift beliefs about threat, necessity, cost, or likely success. Instead, collaboration appears to function symbolically, resonating most with individuals predisposed toward internationalism and supportive of NATO. These findings challenge informational accounts of multilateralism and highlight the legitimating role of symbolic cues in shaping public opinion. This research note broadens our understanding of how governments can use even ad hoc/informal coalitions to secure domestic backing for military interventions.
 
-- [Pave the Way to Diversion: Increased Saliency of Foreign Policy at Times of Economic Hardships.](https://drive.google.com/file/d/1611Rm8Rfh4Sh2_l0Au0TuLF5Bqrig5Qa/view?usp=sharing) (with [Efe Tokdemir](https://www.efetokdemir.com/)).
+- Pave the Way to Diversion: Increased Saliency of Foreign Policy at Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/).
   -   <details>
 
         <summary>Abstract</summary>

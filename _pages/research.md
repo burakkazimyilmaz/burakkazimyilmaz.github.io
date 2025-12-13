@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-- [Making Populations Legible: Curfews, Displacement, and Counterinsurgency in Turkey](https://drive.google.com/file/d/1yG6NRQCutGhERMOQ8KJFsl16PutPqB3P/view?usp=sharing) *Under Review.*
+- [Making Populations Legible: Curfews, Displacement, and Counterinsurgency in Turkey](https://drive.google.com/file/d/1985_SmjlUgWpFeEfZOcugq3lXD4-Zrv9/view?usp=sharing) *Under Review.*
   -   <details>
 
         <summary>Abstract</summary>

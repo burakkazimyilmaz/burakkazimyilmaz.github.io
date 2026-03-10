@@ -52,25 +52,16 @@ author_profile: true
         <summary>Abstract</summary>
         Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is overt side-taking, a meddler's explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Such backlash exists because rivals' endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make inappropriate foreign policy decisions for their country. A preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the rival. Endorsed candidates' future foreign policymaking was also evaluated more negatively, even in the presence of other valuable heuristics such as candidate partisanship and foreign policy positions. Taken together, the empirical evidence indicates that foreign rivals can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
 
-
-## Selected Works in Progress
-
 - Political Channels and Civilian Alignment in Conflict: Evidence from Colombia.
   -   <details>
 
         <summary>Abstract</summary>
         How does access to institutional political channels shape civilians’ political alignment and behavior in the context of armed conflict? While existing research emphasizes violence, coercion, and material incentives as drivers of civilian behavior, less attention has been paid to the role of institutional political inclusion. This article argues that access to institutional political channels—such as petitioning officials, contacting elected representatives, or engaging municipal authorities—shapes whether civilians perceive the state as a legitimate political representative rather than insurgent organizations. Using nationally representative survey data from Colombia collected by the Latin American Public Opinion Project (LAPOP) between 2005 and 2011, I show that individuals who access institutional political channels are more supportive of the national government relative to the Revolutionary Armed Forces of Colombia (FARC). These individuals are also more likely to participate in electoral and campaign-related activities and to favor negotiated solutions to the armed conflict over continued military confrontation. The findings highlight how political inclusion through institutional channels influences civilian attitudes and behavior during armed conflict.
+
+## Selected Works in Progress
         
-
 - Unity on the Pitch, Unity in the State? Football and Territorial Preferences in Spain.
-  -   <details>
-
-        <summary>Abstract</summary>
-        How do major national rituals, such as international football matches, affect political attitudes on territorial organization? This paper investigates whether exposure to Spanish national team matches influences individual preferences over decentralization and national identification. Leveraging the timing of football matches and a rich panel dataset of political attitudes in Spain, I employ a quasi-experimental design that relies on the as-if random timing of matches relative to the survey fieldwork. I find that exposure to a national match significantly increases identification with Spanish identity and reduces support for greater regional autonomy. The findings contribute to our understanding of how seemingly irrelevant events shape attitudes toward national unity and political structure.
 
 - Foreign Endorsements in a Backsliding World: Public Responses at Home and Abroad.
-  -   <details>
 
-        <summary>Abstract</summary>
-        Democratic backsliding has prompted many democratic leaders to publicly endorse pro-democracy candidates abroad, yet the political consequences of these cross-border signals remain poorly understood. This project examines whether such endorsements bolster democratic norms or inadvertently undermine them. I posit a double-edged endorsement dynamic: while foreign endorsements may strengthen the endorser’s domestic standing by signaling principled and competent foreign policy leadership, they can simultaneously provoke nationalist backlash in the target country, reducing support for the very candidates they aim to help. I plan to test these predictions through parallel survey experiments conducted in an endorsing democracy and a target country experiencing democratic erosion, randomly varying whether—and what type of—candidate receives a foreign endorsement. By identifying both the domestic benefits and international costs of pro-democracy signaling, the project aims to advance our understanding of the unintended consequences of efforts to defend democracy across borders.
-
+- Counterterrorism Checkpoints and Civilian Perceptions.

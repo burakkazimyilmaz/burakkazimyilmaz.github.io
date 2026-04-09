@@ -60,8 +60,6 @@ author_profile: true
 
 ## Selected Works in Progress
         
-- Unity on the Pitch, Unity in the State? Football and Territorial Preferences in Spain.
-
-- Foreign Endorsements in a Backsliding World: Public Responses at Home and Abroad.
+- Foreign Endorsements in a Backsliding World: Public Responses at Home and Abroad. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
 
 - Counterterrorism Checkpoints and Civilian Perceptions.

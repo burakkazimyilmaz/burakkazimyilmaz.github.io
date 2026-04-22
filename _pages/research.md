@@ -47,7 +47,7 @@ author_profile: true
         <summary>Abstract</summary>
        What role can voters play in influencing elite behavior and checking democratic backsliding? We argue that credible signals of voter discontent can trigger defections from ruling-party elites. While most research emphasizes how polarization limits voters’ ability to constrain autocrats, we highlight a different channel: voters can shape elite incentives by signaling dissatisfaction with undemocratic practices in subnational elections. Using survival analysis on an original dataset of Turkey’s ruling party (AKP) legislative candidates from 2002 to 2023, we find that voter backlash, following the attempt to overturn the 2019 Istanbul mayoral election, significantly increased elite defections. We further show that elites’ organizational embeddedness and autonomy shape their responses: those deeply tied to party structures remain loyal, while high-profile, such as former ministers, are more likely to defect. Our findings highlight that voter signals, by reducing elite uncertainty and reshaping strategic calculations, can weaken ruling parties internally and create openings for opposition actors and opportunities for democratic resilience.
 
-- The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
+- The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry. (with [Eddy Yeung](https://eddy-yeung.github.io/)). *Under Review.*
   -   <details>
 
         <summary>Abstract</summary>

@@ -16,12 +16,6 @@ author_profile: true
 
 ## Working Papers
 
-- [Framing Domestic Extremism: How Labels Influence Public Support for Counterterrorism Measures.](https://drive.google.com/file/d/1Fe69DAA9Xu37TzvW3TITUBGr2sweOZ4r/view?usp=sharing) *Invited to R & R at Terrorism and Political Violence.*
-  -   <details>
-
-        <summary>Abstract</summary>
-        How does the labeling of violent domestic groups influence public support for counterterrorism policies, and how do partisan identities shape those effects? This study examines how Americans respond to domestic violent actors labeled as terrorists or extremists, arguing that labeling effects are conditioned by partisan alignment. Using a pre-registered survey experiment conducted in the United States, I first document partisan filtering in support for counterterrorism measures based on the perpetrating group’s ideology. I then test whether labeling the group as terrorist or extremist mitigates this bias. However, I find no consistent evidence that labeling increases support for counterterrorism responses. Instead, partisan identity and ideological proximity strongly shape attitudes toward counterterrorism measures. Further analysis shows that these divides operate through perceived threat, perceived credibility of the attack, perceived personal risk, and moral justification of violence. The findings suggest that elite and media framing may exert limited influence without deeper shifts in partisan perceptions, highlighting affective polarization’s central role in shaping responses to domestic extremism.
-
 - Pave the Way to Diversion: Increased Saliency of Foreign Policy at Times of Economic Hardships. (with [Efe Tokdemir](https://www.efetokdemir.com/)). *Invited to R & R at Journal of Conflict Resolution.*
   -   <details>
 
@@ -41,17 +35,23 @@ author_profile: true
         <summary>Abstract</summary>
         How does collaboration with foreign partners shape public support for overseas counterinsurgency operations? While existing research emphasizes the role of formal institutions such as NATO or the United Nations in legitimizing military action, contemporary interventions frequently rely on ad hoc coalitions assembled outside formal institutional frameworks. Using a preregistered survey experiment on a nationally representative sample of U.S. respondents, I examine whether cooperation with informal coalition partners increases support for deploying ground troops abroad. The results show that collaboration with foreign partners—including local forces, regional allies, and traditional third-party partners—significantly increases support for counterinsurgency operations relative to unilateral action. This effect appears across different types of partners and is strongest among individuals with more internationalist orientations and favorable views of NATO. Additional analyses show that collaboration increases support without consistently altering perceptions of threat, necessity, anticipated costs, or the likelihood of mission success. These findings demonstrate that even informal coalition partners can shape domestic support for military intervention.
 
-- [Understanding Elite Defections in Competitive Authoritarian Regimes: Evidence from Turkey.](https://drive.google.com/file/d/1BwwpH8HmoM7ruhL54p98zYEJeXVUER0u/view?usp=sharing) (with [Hilal Sert](https://serthilal.github.io/)). *Under Review.*
-  -   <details>
-
-        <summary>Abstract</summary>
-       What role can voters play in influencing elite behavior and checking democratic backsliding? We argue that credible signals of voter discontent can trigger defections from ruling-party elites. While most research emphasizes how polarization limits voters’ ability to constrain autocrats, we highlight a different channel: voters can shape elite incentives by signaling dissatisfaction with undemocratic practices in subnational elections. Using survival analysis on an original dataset of Turkey’s ruling party (AKP) legislative candidates from 2002 to 2023, we find that voter backlash, following the attempt to overturn the 2019 Istanbul mayoral election, significantly increased elite defections. We further show that elites’ organizational embeddedness and autonomy shape their responses: those deeply tied to party structures remain loyal, while high-profile, such as former ministers, are more likely to defect. Our findings highlight that voter signals, by reducing elite uncertainty and reshaping strategic calculations, can weaken ruling parties internally and create openings for opposition actors and opportunities for democratic resilience.
-
 - The Electoral Consequences of Foreign Side-Taking in the Shadow of Geopolitical Rivalry. (with [Eddy Yeung](https://eddy-yeung.github.io/)). *Under Review.*
   -   <details>
 
         <summary>Abstract</summary>
         Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is \textit{overt side-taking}, a meddler's explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the rival. Additional evidence, including an original survey designed to probe the mechanisms, indicates that such backlash exists because rivals' endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make unfavorable foreign policy decisions. Our findings suggest that foreign rivals can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
+
+- [Understanding Elite Defections in Competitive Authoritarian Regimes: Evidence from Turkey.](https://drive.google.com/file/d/1BwwpH8HmoM7ruhL54p98zYEJeXVUER0u/view?usp=sharing) (with [Hilal Sert](https://serthilal.github.io/)). 
+  -   <details>
+
+        <summary>Abstract</summary>
+       What role can voters play in influencing elite behavior and checking democratic backsliding? We argue that credible signals of voter discontent can trigger defections from ruling-party elites. While most research emphasizes how polarization limits voters’ ability to constrain autocrats, we highlight a different channel: voters can shape elite incentives by signaling dissatisfaction with undemocratic practices in subnational elections. Using survival analysis on an original dataset of Turkey’s ruling party (AKP) legislative candidates from 2002 to 2023, we find that voter backlash, following the attempt to overturn the 2019 Istanbul mayoral election, significantly increased elite defections. We further show that elites’ organizational embeddedness and autonomy shape their responses: those deeply tied to party structures remain loyal, while high-profile, such as former ministers, are more likely to defect. Our findings highlight that voter signals, by reducing elite uncertainty and reshaping strategic calculations, can weaken ruling parties internally and create openings for opposition actors and opportunities for democratic resilience.
+
+- [Framing Domestic Extremism: How Labels Influence Public Support for Counterterrorism Measures.](https://drive.google.com/file/d/1Fe69DAA9Xu37TzvW3TITUBGr2sweOZ4r/view?usp=sharing) 
+  -   <details>
+
+        <summary>Abstract</summary>
+        How does the labeling of violent domestic groups influence public support for counterterrorism policies, and how do partisan identities shape those effects? This study examines how Americans respond to domestic violent actors labeled as terrorists or extremists, arguing that labeling effects are conditioned by partisan alignment. Using a pre-registered survey experiment conducted in the United States, I first document partisan filtering in support for counterterrorism measures based on the perpetrating group’s ideology. I then test whether labeling the group as terrorist or extremist mitigates this bias. However, I find no consistent evidence that labeling increases support for counterterrorism responses. Instead, partisan identity and ideological proximity strongly shape attitudes toward counterterrorism measures. Further analysis shows that these divides operate through perceived threat, perceived credibility of the attack, perceived personal risk, and moral justification of violence. The findings suggest that elite and media framing may exert limited influence without deeper shifts in partisan perceptions, highlighting affective polarization’s central role in shaping responses to domestic extremism.
 
 - Political Channels and Civilian Behavior in Armed Conflict: Evidence from Colombia.
   -   <details>
@@ -61,6 +61,10 @@ author_profile: true
 
 ## Selected Works in Progress
         
-- Foreign Endorsements in a Backsliding World: Public Responses at Home and Abroad. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
+- Democracy Promotion or Foreign Meddling? Public Reactions to Pro-Democratic Electoral Intervention. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
 
 - Counterterrorism Checkpoints and Civilian Perceptions.
+
+- Relative Military Capabilities and Public Support for Retaliation Against Rebel Sponsors. (with [Hilal Sert](https://serthilal.github.io/)).
+
+- Grassroots or Elites? Candidate Selection in Ethnically Contested Regions. (with [Hilal Sert](https://serthilal.github.io/)).

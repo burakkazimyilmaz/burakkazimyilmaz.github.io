@@ -9,10 +9,10 @@ Welcome!
 
 I'm a Ph.D. candidate in the Department of Political Science at Emory University. I am currently on the job market.
 
-I study how political participation and public opinion influence elite behavior in contexts such as armed conflict, foreign policy decision-making, and authoritarian consolidation. My work proceeds along two main lines.
+My research examines how states and non-state actors build public support, weaken their opponents, and adapt to citizens’ attitudes and behavior across armed conflict, foreign policy, and electoral politics.
 
-First, I examine how political participation shapes elite behavior, even in high-stakes settings of ongoing conflict or democratic backsliding. I find that elites remain sensitive to participatory signals—such as elections and public opinion—and adapt their strategies in response. Across this research, I develop new theoretical frameworks to explain how elites perceive and manage political risks.
+To study these questions, I combine observational data, survey experiments, original data collection, and computational text analysis, including the use of large language models. My research spans the Middle East, North America, and Latin America and contributes to debates in international relations and comparative politics concerning political violence, foreign policy, public opinion, and democratic governance.
 
-Second, I investigate how public opinion affects elite decision-making in counterinsurgency and foreign policy. Here, I analyze how citizens respond to conflict, focusing on the interaction of partisan identity, foreign policy predispositions, and perceived threats with elite rhetoric.
+My research has been supported by the Prudentis Fund and the Professional Development Support Research Fund at Emory University, Humane Studies Fellowship from the Institute for Humane Studies, and the Besample Dissertation Grant.
 
 I hold an MA and a BA in International Relations from Bilkent University (Turkey). 

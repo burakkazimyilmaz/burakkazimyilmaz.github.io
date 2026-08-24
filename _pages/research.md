@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-- [Making Populations Legible: Curfews, Displacement, and Counterinsurgency in Turkey](https://drive.google.com/file/d/1985_SmjlUgWpFeEfZOcugq3lXD4-Zrv9/view?usp=sharing). *R & R at Journal of Peace Research.*
+- [Making Populations Legible: Curfews, Displacement, and Counterinsurgency in Turkey](https://drive.google.com/file/d/1TC0xLACAu5tb0obsYfBUxyURQieGzua7/view?usp=sharing). *R & R at Journal of Peace Research.*
   -   <details>
 
         <summary>Abstract</summary>
@@ -22,7 +22,7 @@ author_profile: true
         <summary>Abstract</summary>
         Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is \textit{overt side-taking}, a meddler's explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the rival. Additional evidence, including an original survey designed to probe the mechanisms, indicates that such backlash exists because rivals' endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make unfavorable foreign policy decisions. Our findings suggest that foreign rivals can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
 
-- [Insurgent Sabotage of Effective Local Governments: Evidence from Turkey.](https://drive.google.com/file/d/18W4ZAqsvjm6h8v2vXBZW_ju3m8-LzJW2/view?usp=sharing) *R & R at Journal of Peace Research.*
+- [Insurgent Sabotage of Effective Local Governments: Evidence from Turkey.](https://drive.google.com/file/d/1jLFojzmnDc5qyUHhzGwuTqdl-2oebhdP/view?usp=sharing) *R & R at Journal of Peace Research.*
   -   <details>
 
         <summary>Abstract</summary>

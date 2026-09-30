@@ -55,7 +55,7 @@ author_profile: true
 ## Selected Works in Progress
 
 - Unilateral War and Democratic Confidence.
-- 
+
 - Counterterrorism Checkpoints and Civilian Perceptions.
 
 - Democracy Promotion or Foreign Meddling? Public Reactions to Pro-Democratic Electoral Intervention. (with [Eddy Yeung](https://eddy-yeung.github.io/)).

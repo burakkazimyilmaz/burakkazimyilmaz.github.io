@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Publications
+- [Insurgent Sabotage of Effective Local Governments: Evidence from Turkey.](https://drive.google.com/file/d/1jLFojzmnDc5qyUHhzGwuTqdl-2oebhdP/view?usp=sharing) *R & R at Journal of Peace Research.*
+    <details>
+        <summary>Abstract</summary>
+        Conventional counterinsurgency theory holds that effective local governance should reduce insurgent violence by weakening civilian allegiance to armed groups. Yet insurgents are not passive observers of governance improvements. I argue that when municipal control shifts to parties with strong service-delivery capacity, insurgents strategically escalate violence to prevent declining popular support. In particular, they increase attacks on security forces to provoke coercive counterinsurgency responses that alienate civilians from the state, thereby undermining the political benefits of improved public goods provision. I test this argument in the context of Turkey’s long-running conflict with the PKK, focusing on the 1994 municipal elections in which the Refah Party (RP) gained control in several Kurdish-majority districts. Using a close-election regression discontinuity design, I show that districts narrowly won by the RP experienced significantly higher levels of PKK attacks on security forces. This pattern is consistent with a sabotage–provocation mechanism in which insurgents respond to capable local governance by inducing enemy-centric counterinsurgency. These findings advance research on political violence by conceptualizing local governments as autonomous actors in counterinsurgency and linking literatures on development aid and provocation.
+
 
 - [Pave the Way to Diversion: Increased Saliency of Foreign Policy at Times of Economic Hardships.](https://drive.google.com/file/d/1611Rm8Rfh4Sh2_l0Au0TuLF5Bqrig5Qa/view?usp=sharing) (with [Efe Tokdemir](https://www.efetokdemir.com/)). *Accepted at Journal of Conflict Resolution.*
   <details>
@@ -26,11 +31,6 @@ author_profile: true
    <details>
         <summary>Abstract</summary>
         Foreign electoral intervention is an increasingly popular tool for authoritarian powers to influence politics in the international system. One direct form of intervention is overt side-taking, a meddler's explicit verbal endorsement of a domestic candidate. This paper unpacks its impact on domestic electoral dynamics. We theorize a kiss-of-death logic: overt side-taking by a foreign rival will generate electoral backlash against the endorsed candidate. Consistent with this claim, a preregistered experiment administered to American voters shows that candidates endorsed by a US rival suffered significant electoral backlash, especially among respondents holding strong geopolitical concerns about the rival. Additional evidence, including an original survey designed to probe the mechanisms, indicates that such backlash exists because rivals' endorsement can signal to domestic voters that the endorsed candidate, if elected, will likely make unfavorable foreign policy decisions. Our findings suggest that foreign rivals can exploit the kiss-of-death logic and tip the balance of electoral support in favor of their preferred candidate through words alone.
-
-- [Insurgent Sabotage of Effective Local Governments: Evidence from Turkey.](https://drive.google.com/file/d/1jLFojzmnDc5qyUHhzGwuTqdl-2oebhdP/view?usp=sharing) *R & R at Journal of Peace Research.*
-    <details>
-        <summary>Abstract</summary>
-        Conventional counterinsurgency theory holds that effective local governance should reduce insurgent violence by weakening civilian allegiance to armed groups. Yet insurgents are not passive observers of governance improvements. I argue that when municipal control shifts to parties with strong service-delivery capacity, insurgents strategically escalate violence to prevent declining popular support. In particular, they increase attacks on security forces to provoke coercive counterinsurgency responses that alienate civilians from the state, thereby undermining the political benefits of improved public goods provision. I test this argument in the context of Turkey’s long-running conflict with the PKK, focusing on the 1994 municipal elections in which the Refah Party (RP) gained control in several Kurdish-majority districts. Using a close-election regression discontinuity design, I show that districts narrowly won by the RP experienced significantly higher levels of PKK attacks on security forces. This pattern is consistent with a sabotage–provocation mechanism in which insurgents respond to capable local governance by inducing enemy-centric counterinsurgency. These findings advance research on political violence by conceptualizing local governments as autonomous actors in counterinsurgency and linking literatures on development aid and provocation.
 
 - [Beyond Institutions: How Informal Alliances Shape Public Backing for Military Interventions.](https://drive.google.com/file/d/1mtU2ow9EgfUPsJHnDSCbjBRRCptt7QGD/view?usp=sharing) *R & R at Foreign Policy Analysis.*
   <details>
@@ -53,9 +53,11 @@ author_profile: true
         How is the use of institutional political channels associated with civilians’ political alignment and behavior in the context of armed conflict? Existing research emphasizes violence, territorial control, identity, and material incentives as drivers of civilian behavior. However, less attention has been paid to the role of institutional political inclusion. I argue that use of institutional political channels, such as petitioning officials, contacting elected representatives, or engaging municipal authorities, is closely related to whether civilians perceive the state as a legitimate political representative rather than insurgent organizations. Using nationally representative survey data from Colombia collected by the Latin American Public Opinion Project (LAPOP) between 2005 and 2011, I show that individuals who report using institutional political channels express greater relative support for the national government compared to the Revolutionary Armed Forces of Colombia (FARC). These individuals also exhibit higher levels of state-centered political participation and greater support for negotiated solutions to the armed conflict rather than exclusive reliance on military force. The findings highlight systematic associations between institutional political inclusion and civilian attitudes and behavior during armed conflict.
 
 ## Selected Works in Progress
-        
-- Democracy Promotion or Foreign Meddling? Public Reactions to Pro-Democratic Electoral Intervention. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
 
+- Unilateral War and Democratic Confidence.
+- 
 - Counterterrorism Checkpoints and Civilian Perceptions.
+
+- Democracy Promotion or Foreign Meddling? Public Reactions to Pro-Democratic Electoral Intervention. (with [Eddy Yeung](https://eddy-yeung.github.io/)).
 
 - Relative Military Capabilities and Public Support for Retaliation Against Rebel Sponsors. (with [Hilal Sert](https://serthilal.github.io/)).
